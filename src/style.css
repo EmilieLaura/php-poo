@@ -1,0 +1,38 @@
+.container {
+    margin-top: 80px;
+}
+
+.row {
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+.row>* {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+h2, h3 {
+    text-align: center;
+}
+
+h3 {
+    font-size: 20px;
+    padding-top: 30px;
+}
+
+label {
+    padding-bottom: 10px;
+    font-size: 18px;
+}
+
+.btn-primary {
+    background-color: black;
+    border: none;
+    padding: 10px 0px;
+    margin-top: 20px;
+}
+
+.btn-primary:hover {
+    background-color: rgb(80, 80, 80);
+}
